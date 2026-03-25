@@ -4,5 +4,5 @@ This research comes mainly from my own hands-on watching of financial markets ov
 ---
 
 Research Papers:
-- **Dual-Interpreted News Events**
+- **Dual-Interpreted News Events (DIN)**
 
