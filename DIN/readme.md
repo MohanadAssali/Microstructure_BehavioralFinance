@@ -7,4 +7,7 @@ My findings suggest that purely quantitative models often fail during these regi
 
 
 **Quant Models Used:**
-VAR, GARCH
+
+GARCH: Volatility Clustering 
+
+VAR: Correlation
